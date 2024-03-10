@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KnockoutNed94
-- 👀 I’m interested in Data Analytics/Analysis
-- 🌱 I’m currently learning SQL/R/Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science/Analytics
+- 🌱 I’m currently learning R/SAS/Python/SQL
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ... PM!
 
 <!---
