@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KosiOkeke
+- 👋 Hi, I’m Kosi Okeke (@KOkeke94)
 - 👀 I’m interested in Data Science/Analytics
 - 🌱 I’m currently learning R/SAS/Python/SQL
 - 💞️ I’m looking to collaborate on anything!
